@@ -1,0 +1,6 @@
+# Netlify redirects
+
+https://lucid-bell-23d9f5.netlify.com/* https://hamburger.chessiah.xyz/:splat 301!
+http://lucid-bell-23d9f5.netlify.com/* https://hamburger.chessiah.xyz/:splat 301!
+
+http://hamburger.chessiah.xyz/* https://hamburger.chessiah.xyz/:splat 301!
