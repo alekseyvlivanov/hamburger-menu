@@ -1,0 +1,17 @@
+[[redirects]]
+  from = "https://hamburger-menu-aleksey-vl-ivanov.netlify.app/*"
+  to = "https://hamburger-menu.aleksey-vl-ivanov.com/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "http://hamburger-menu-aleksey-vl-ivanov.netlify.app/*"
+  to = "https://hamburger-menu.aleksey-vl-ivanov.com/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "http://hamburger-menu.aleksey-vl-ivanov.com/*"
+  to = "https://hamburger-menu.aleksey-vl-ivanov.com/:splat"
+  status = 301
+  force = true

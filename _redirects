@@ -1,6 +1,0 @@
-# Netlify redirects
-
-https://hamburger-menu-chessiah.netlify.app/* https://hamburger-menu.chessiah.com/:splat 301!
-http://hamburger-menu-chessiah.netlify.app/* https://hamburger-menu.chessiah.com/:splat 301!
-
-http://hamburger-menu.chessiah.com/* https://hamburger-menu.chessiah.com/:splat 301!
